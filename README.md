@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="rob-run-wipe-timer" width="840" />
-
 # Rob Run Wipe Timer — ROB RUN Wipe Timer — Federal Raid Countdown and Loot Checklist (Portable x64 Build, JSON Configuration)
 
 <p><strong>Rob Run Wipe Timer — ROB RUN Wipe Timer — Federal Raid Countdown and Loot Checklist (Portable x64 Build, JSON Configuration): Federal Raid countdown — never lose your loot again. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
